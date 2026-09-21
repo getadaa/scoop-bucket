@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/getadaa/cli/releases/download/v0.1.0/adaa_0.1.0_windows_amd64.zip",
+            "bin": [
+                "adaa.exe"
+            ],
+            "hash": "2141dcbbe543e40278ab0324662c8bb3e57f02515b12cde013d9efa77015ad65"
+        },
+        "arm64": {
+            "url": "https://github.com/getadaa/cli/releases/download/v0.1.0/adaa_0.1.0_windows_arm64.zip",
+            "bin": [
+                "adaa.exe"
+            ],
+            "hash": "4a565a0c27b131366ee7a4ba82a6d716fc3bbb54d40afa1683a270f0766ea57a"
+        }
+    },
+    "homepage": "https://adaa.no",
+    "description": "Run your company's IT from the terminal"
+}
